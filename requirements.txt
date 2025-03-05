@@ -1,0 +1,3 @@
+#packages requirement for aws bedrock connection from local machine
+boto3
+awscli
